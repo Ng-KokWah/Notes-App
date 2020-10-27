@@ -1,0 +1,13 @@
+D:\(0) Applications\NoteTaking\NoteTaking\bin\Debug\NotesDatabase.mdf
+D:\(0) Applications\NoteTaking\NoteTaking\bin\Debug\NotesDatabase_log.ldf
+D:\(0) Applications\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe.config
+D:\(0) Applications\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe
+D:\(0) Applications\NoteTaking\NoteTaking\bin\Debug\NoteTaking.pdb
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csprojAssemblyReference.cache
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Properties.Resources.resources
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.GenerateResource.cache
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.exe
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.pdb
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.ViewNote.resources
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.AddNote.resources
+D:\(0) Applications\NoteTaking\NoteTaking\obj\Debug\NoteTaking.NoteMain.resources
